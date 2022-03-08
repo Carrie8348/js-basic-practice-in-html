@@ -2,6 +2,6 @@ function outerFunction() {
     document.getElementById('outer').innerHTML = "destiny child";
 };
 
-function remainingBudget(){
-    document.getElementsById('')
-}
+var friends = ["yuki","sigh", "carrie"];
+
+document.getElementById('pal').innerHTML = friends[0];
